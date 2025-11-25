@@ -81,26 +81,6 @@ spring:
 
 <br>
 
-## 🧩 메일 전송 서비스 (MailService)
-
-### 텍스트 메일
-
-`SimpleMailMessage` 사용
-
-### HTML / 첨부파일 메일
-
-`MimeMessage` + `MimeMessageHelper` 사용
-
-### 비동기 처리
-
-메일 전송은 SMTP 서버와 통신하는 과정이 필요하기 때문에
-
-`@Async`를 사용해 **비동기 처리**로 개선할 수 있다.
-
-→ `@EnableAsync` 필요
-
-<br>
-
 ## 🌐 테스트 UI 경로
 
 프로젝트 실행 후 아래 URL에서 테스트할 수 있다.
