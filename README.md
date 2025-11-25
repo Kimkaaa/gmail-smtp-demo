@@ -33,9 +33,9 @@ Thymeleaf 기반의 **웹 UI 폼**도 함께 제공한다.
 ## 📸 테스트 폼 UI
 
 <p align="center">
-  <img src="src/main/resources/static/images/메일_01_폼_01_text.png" width="300">
-  <img src="src/main/resources/static/images/메일_01_폼_02_html.png" width="300">
-  <img src="src/main/resources/static/images/메일_01_폼_03_attachment.png" width="300">
+  <img src="src/main/resources/static/images/메일_01_폼_01_text.png" width="250">
+  <img src="src/main/resources/static/images/메일_01_폼_02_html.png" width="250">
+  <img src="src/main/resources/static/images/메일_01_폼_03_attachment.png" width="250">
 </p>
 
 <br>
@@ -43,9 +43,9 @@ Thymeleaf 기반의 **웹 UI 폼**도 함께 제공한다.
 ## 📬 메일 수신 결과
 
 <p align="center">
-  <img src="src/main/resources/static/images/결과_01_텍스트.png" width="300">
-  <img src="src/main/resources/static/images/결과_02_html.png" width="300">
-  <img src="src/main/resources/static/images/결과_03_첨부파일.png" width="300">
+  <img src="src/main/resources/static/images/결과_01_텍스트.png" width="250">
+  <img src="src/main/resources/static/images/결과_02_html.png" width="250">
+  <img src="src/main/resources/static/images/결과_03_첨부파일.png" width="250">
 </p>
 
 <br>
