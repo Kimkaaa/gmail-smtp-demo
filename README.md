@@ -31,22 +31,13 @@ Thymeleaf 기반의 **웹 UI 폼**도 함께 제공한다.
 <br>
 
 ## 📸 테스트 폼 UI
-
-<p align="center">
-  <img src="src/main/resources/static/images/메일_01_폼_01_text.png" width="250">
-  <img src="src/main/resources/static/images/메일_01_폼_02_html.png" width="250">
-  <img src="src/main/resources/static/images/메일_01_폼_03_attachment.png" width="250">
-</p>
+![000_폼_UI.png](src%2Fmain%2Fresources%2Fstatic%2Fimages%2F000_%ED%8F%BC_UI.png)
 
 <br>
 
 ## 📬 메일 수신 결과
 
-<p align="center">
-  <img src="src/main/resources/static/images/결과_01_텍스트.png" width="250">
-  <img src="src/main/resources/static/images/결과_02_html.png" width="250">
-  <img src="src/main/resources/static/images/결과_03_첨부파일.png" width="250">
-</p>
+![002_결과.png](src%2Fmain%2Fresources%2Fstatic%2Fimages%2F002_%EA%B2%B0%EA%B3%BC.png)
 
 <br>
 
